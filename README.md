@@ -14,4 +14,6 @@ Data Cupcake Business - Sales Data Analysis berisi tentang **Data Penjualan Cupc
 7. Kuantitas
 8. Harga Satuan
 9. Peringkat
+
+Berikut Tujuan dari Data ***Cupcake Business*** - ***Sales Data Analysis*** yakni :
 Data ini dapat dimanfaatkan untuk Analisis Bisnis, contohnya Analisis Penjualan, Analisis Pasar, dan Prediksi Penjualan di Masa Depan.
