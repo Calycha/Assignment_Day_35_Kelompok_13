@@ -1,4 +1,4 @@
-[Assignment_Day_35_Kelompok_13]
+**[Assignment_Day_35_Kelompok_13]**
 
 Kami memakai data dari web Kaggle yang bernama ***Cupcake Business*** - ***Sales Data Analysis***
 
@@ -15,5 +15,5 @@ Data Cupcake Business - Sales Data Analysis berisi tentang **Data Penjualan Cupc
 8. Harga Satuan
 9. Peringkat
 
-Berikut Tujuan dari Data ***Cupcake Business*** - ***Sales Data Analysis*** yakni :
+Berikut **Tujuan** dari Data ***Cupcake Business*** - ***Sales Data Analysis*** yakni :
 Data ini dapat dimanfaatkan untuk Analisis Bisnis, contohnya Analisis Penjualan, Analisis Pasar, dan Prediksi Penjualan di Masa Depan.
